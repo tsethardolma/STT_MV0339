@@ -1,6 +1,6 @@
 
 
-ཁ་བྱང་། .gitignore
+
 
 
 # Ignore audio files
