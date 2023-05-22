@@ -1,0 +1,21 @@
+
+
+ཁ་བྱང་། .gitignore
+
+
+# Ignore audio files
+*.mp3
+*.wav
+*.aac
+*.flac
+*.ogg
+*.wma
+
+# Ignore video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
